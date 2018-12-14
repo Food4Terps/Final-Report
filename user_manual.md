@@ -1,6 +1,12 @@
 
-User's Manual
-By: Jin Young Oh, Justin Song, Mimi Thapa, and Connie Cho
+# User's Manual
+Jin Young Oh 
+
+Justin Song
+
+Mimi Thapa
+
+Connie Cho
 
 
 
